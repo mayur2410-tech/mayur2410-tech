@@ -35,7 +35,7 @@
 
 ```javascript
 const mayur = {
-    location: "Rajkot, Gujarat, India",
+    location: "Ahmedabad, Gujarat, India",
     education: "B.Tech in Computer Science",
     currentFocus: "Full-Stack & Mobile Development",
     
@@ -44,7 +44,7 @@ const mayur = {
         backend: ["Node.js", "Express.js", "Next.js API"],
         mobile: ["React Native", "Expo"],
         databases: ["MongoDB", "PostgreSQL", "Firebase"],
-        ai: ["OpenAI", "Google Gemini", "HuggingFace"]
+        ai: ["OpenAI", "Google Gemini"]
     },
     
     currentlyLearning: ["Docker", "AWS", "Microservices"],
