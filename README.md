@@ -144,7 +144,7 @@ const mayur = {
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-<a href="https://github.com/mayur2410-tech/laundry-management">
+<a href="https://github.com/mayur2410-tech/laundry_buddy">
   <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="#">
@@ -211,7 +211,7 @@ const mayur = {
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
 ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
 
-<a href="https://github.com/mayur2410-tech/ai-career-coach">
+<a href="https://github.com/mayur2410-tech/AI-Career-Coach/tree/Main">
   <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="#">
@@ -268,7 +268,7 @@ const mayur = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,typescript,javascript,html,css,tailwind,materialui,redux&perline=10&theme=dark" alt="Frontend"/>
 
 ### Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,firebase,prisma,postman&perline=7&theme=dark" alt="Backend"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman&perline=7&theme=dark" alt="Backend"/>
 
 ### Mobile Development
 <img src="https://skillicons.dev/icons?i=react,typescript,firebase&perline=3&theme=dark" alt="Mobile"/>
@@ -282,10 +282,10 @@ const mayur = {
 <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 
 ### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify,npm,yarn&perline=8&theme=dark" alt="Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&perline=8&theme=dark" alt="Tools"/>
 
 ### Currently Learning
-<img src="https://skillicons.dev/icons?i=docker,aws,kubernetes,python,nestjs,graphql&perline=6&theme=dark" alt="Learning"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,kubernetes&perline=6&theme=dark" alt="Learning"/>
 
 </div>
 
