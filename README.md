@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=1000&color=4F67F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Mayur+Waykar;Full+Stack+Developer;React+%7C+Node+%7C+React+Native;Building+Innovative+Solutions" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=1000&color=4F67F7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Mayur+Waykar;Full+Stack+Developer;React+%7C+Node+%7C+React+Native;Building+Innovative+Solutions" 
     alt="Typing Animation" 
   />
 </h1>
@@ -309,7 +309,7 @@ const mayur = {
 </td>
 <td width="50%">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mayur2410-tech&theme=radical&hide_border=false&background=0D1117&stroke=4F67F7&ring=4F67F7&fire=61DAFB&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" 
+    src="" 
     width="100%" 
   />
 </td>
